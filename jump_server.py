@@ -36,7 +36,7 @@ import os
 MYSQL = '/mnt/mysql5721/bin/mysql'
 HOST = '127.0.0.1'
 USER = 'root'
-PASSWORD = 'qwe123'
+PASSWORD = ''
 PORT = 11856
 DB = 'jumpmysql'
 CHARSET = 'utf8'
