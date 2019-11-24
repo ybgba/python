@@ -1,0 +1,19 @@
+1.安装python，安装3.8.0
+https://www.python.org/downloads/release/python-380/
+
+2.安装wheel
+pip3 install wheel
+
+3.安装twisted
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#twisted
+or
+pip3 install twisted
+
+3.安装pypiwin32
+pip3 install pypiwin32
+
+4.安装scrapy
+pip3 install scrapy
+
+5.创建一个新的project
+scrapy startproject amazon
